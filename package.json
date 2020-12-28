@@ -28,5 +28,5 @@
   "devDependencies": {
     "nodemon": "^1.18.11"
   },
-  "proxy": "https://gentle-plains-69471.herokuapp.com"
+  "proxy": "gentle-plains-69471.herokuapp.com"
 }
