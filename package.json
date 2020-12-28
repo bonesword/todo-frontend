@@ -28,5 +28,5 @@
   "devDependencies": {
     "nodemon": "^1.18.11"
   }
-  "proxy": "http://localhost:8000"
+  "proxy":  "https://arcane-wave-77278.herokuapp.com",
 }
