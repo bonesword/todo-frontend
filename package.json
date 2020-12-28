@@ -27,6 +27,6 @@
   ],
   "devDependencies": {
     "nodemon": "^1.18.11"
-  }
-  "proxy":  "https://arcane-wave-77278.herokuapp.com",
+  },
+  "proxy": "https://gentle-plains-69471.herokuapp.com"
 }
